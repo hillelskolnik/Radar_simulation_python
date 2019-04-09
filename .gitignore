@@ -100,7 +100,4 @@ venv.bak/
 # mkdocs documentation
 /site
 
-# jupyter lab notebook
-.ipynb_checkpoints/
-# mypy
 .mypy_cache/
